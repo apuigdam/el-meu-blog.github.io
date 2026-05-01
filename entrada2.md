@@ -32,3 +32,9 @@ class Program {
 - **Prova 1:** Entrada `12345678` -> Sortida: `12345678-Z`.
     
 - **Prova 2:** Entrada `87654321` -> Sortida: `87654321-X`.
+
+
+#### Vídeo del procés (Google Vids)
+
+A continuació podeu veure el vídeo on mostro com s'executa tot el procés al meu VSCode:
+https://drive.google.com/file/d/1TPgpyTFgCfoL4ZvLtHIpeXMwc3c_be8x/view?usp=sharing
